@@ -1,0 +1,84 @@
+{
+  "company": "ALGO Technologies",
+  "last_updated": "2026-04-06",
+
+  "areas": {
+    "frontend": {
+      "label": "Frontend",
+      "scope": "UI, Buttons, Styling, Navigation, Mobile View",
+      "primary_contact": {
+        "name": "Alice Chen",
+        "role": "Senior UI Dev",
+        "slack": "@alice.chen",
+        "email": "alice.chen@ALGO.com"
+      },
+      "keywords": [
+        "ui", "button", "page", "screen", "layout", "css", "style", "color", "font",
+        "responsive", "mobile view", "browser", "display", "render", "component",
+        "modal", "dropdown", "form", "navbar", "sidebar", "menu", "popup", "animation",
+        "hover", "scroll", "click", "dark mode", "theme", "icon", "image", "alignment",
+        "spacing", "margin", "padding", "html", "react", "angular", "vue", "dom",
+        "carousel", "table view", "grid", "card", "tab", "tooltip", "overlay",
+        "z-index", "border", "navigation", "routing", "link", "redirect"
+      ]
+    },
+    "backend": {
+      "label": "Backend",
+      "scope": "API Errors, Database, Logic, Server Crashes",
+      "primary_contact": {
+        "name": "Bob Smith",
+        "role": "Lead Backend Eng",
+        "slack": "@bob.smith",
+        "email": "bob.smith@ALGO.com"
+      },
+      "keywords": [
+        "api", "endpoint", "server", "request", "response", "rest", "graphql",
+        "500", "404", "timeout", "backend", "logic", "calculation", "processing",
+        "validation", "database", "db", "query", "sql", "migration", "schema",
+        "null", "missing data", "wrong data", "slow query", "deadlock", "transaction",
+        "cache", "redis", "queue", "worker", "cron", "webhook", "json", "payload",
+        "controller", "service", "repository", "business rule", "data not saving",
+        "sync", "import", "export", "batch", "crash", "error", "exception",
+        "stack trace", "bug", "500 error", "internal server error"
+      ]
+    },
+    "security_auth": {
+      "label": "Security / Auth",
+      "scope": "Login issues, Permissions, Data Leaks, Encryption",
+      "primary_contact": {
+        "name": "Charlie Ghost",
+        "role": "Security Specialist",
+        "slack": "@charlie.ghost",
+        "email": "charlie.ghost@ALGO.com"
+      },
+      "keywords": [
+        "login", "logout", "signup", "sign up", "register", "password", "forgot password",
+        "reset password", "otp", "2fa", "two factor", "mfa", "authentication", "auth",
+        "session", "token", "jwt", "oauth", "sso", "google login", "apple login",
+        "permission", "role", "access control", "unauthorized", "forbidden", "security",
+        "xss", "csrf", "sql injection", "encryption", "ssl", "certificate", "https",
+        "cookie", "session expired", "locked out", "account locked", "captcha",
+        "data leak", "breach", "vulnerability", "hacked", "credentials", "brute force"
+      ]
+    },
+    "devops_infra": {
+      "label": "DevOps / Infra",
+      "scope": "Speed/Latency, Deployment, SSL, Environment setup",
+      "primary_contact": {
+        "name": "Dana Cloud",
+        "role": "Infra Engineer",
+        "slack": "@dana.cloud",
+        "email": "dana.cloud@ALGO.com"
+      },
+      "keywords": [
+        "deploy", "deployment", "ci", "cd", "pipeline", "build", "build failed",
+        "docker", "container", "kubernetes", "k8s", "aws", "ec2", "s3", "lambda",
+        "cloud", "server config", "nginx", "load balancer", "scaling", "monitoring",
+        "alert", "log", "logging", "grafana", "datadog", "sentry", "uptime", "downtime",
+        "dns", "ssl certificate", "domain", "environment", "staging", "production",
+        "terraform", "latency", "speed", "slow", "performance", "cdn", "memory usage",
+        "cpu usage", "disk space", "network", "jenkins", "github actions", "helm"
+      ]
+    }
+  }
+}
